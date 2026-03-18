@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend developer from Brasil🇧🇷
+Backend developer from Brasil
 
 
 ## 🌐 Socials:
